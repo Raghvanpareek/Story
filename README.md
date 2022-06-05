@@ -1,1 +1,1 @@
- github understanding and its features
+ understanding github and its features
